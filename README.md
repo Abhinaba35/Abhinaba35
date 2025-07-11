@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># 👋 Hi there, I'm Abhinaba Das!
+--># I'm Abhinaba Das!
 
 🎓 B.Tech CSE | 💻 MERN Stack Developer | 📊 Data Analyst | 🤖 AI Enthusiast  
 📍 India | 🔍 Looking for Full Stack or SDE Opportunities
@@ -48,9 +48,8 @@ I'm a passionate software developer with experience in building scalable web app
 - MySQL
 
 ### 🧠 AI & Data Science
-- Pandas, NumPy, Matplotlib, Seaborn
-- Scikit-learn
 - Tableau
+- Excel
 - LLM Integrations
 
 ### 🌐 Dev Tools & Platforms
@@ -87,8 +86,8 @@ Tech: React, Chart.js, Tailwind, REST API
 
 ## 📫 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abhinaba-das35/)
-- 📧 Email: abhinabadas.official@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhinaba-das-cse/)
+- 📧 Email: dasjayanti208@gmail.com
 - 🌐 Portfolio: Coming Soon!
 
 ---
@@ -98,7 +97,7 @@ Tech: React, Chart.js, Tailwind, REST API
 I’m currently seeking:
 - SDE Internships / Full-time Roles
 - Full Stack Web Development Projects
-- AI/ML or Data Science Internship Opportunities
+- Data Analyst Internship Opportunities
 
 ---
 
