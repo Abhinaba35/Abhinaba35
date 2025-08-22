@@ -1,6 +1,9 @@
-# Hi there 👋 I'm Abhinaba Das!  
-🎓 B.Tech CSE | 💻 MERN Stack Developer | 📊 Data Analyst | 🤖 AI Enthusiast  
-📍 India | 🔍 Open to Full Stack & SDE Opportunities  
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Abhinaba+Das!;🎓+B.Tech+CSE;💻+MERN+Stack+Developer;📊+Data+Analyst;🤖+AI+Enthusiast;📍+India;🔍+Open+to+SDE+Opportunities" alt="Typing SVG" />
+  </a>
+</h1>
+
 
 ---
 
@@ -29,7 +32,7 @@ My strengths lie in **MERN Stack, Python, and Data Science**, and I enjoy solvin
 
 ### 🌐 Tools & Platforms  
 ### 🌐 Tools & Platforms  
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,jira)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode)](https://skillicons.dev)  
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)  
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)  
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
