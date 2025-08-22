@@ -68,24 +68,38 @@ My strengths lie in **MERN Stack, Python, and Data Science**, and I enjoy solvin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinaba35&show_icons=true&theme=radical)  
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaba35&layout=compact&langs_count=8&theme=radical" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=Abhinaba35&theme=radical&hide_border=false" height="180em" />
+
+</div>
+
 ## 🏆 GitHub Trophies  
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abhinaba35&theme=onedark&margin-w=15&margin-h=15)  
-
-## 📊 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaba35&layout=compact&langs_count=8&theme=radical)  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Abhinaba35&theme=radical&hide_border=false)
 
 ---
 
 ## 📫 Let's Connect  
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhinaba-das-cse)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Abhinaba35)  
-[![Gmail](https://img.shields.io/badge/Email-dasjayanti208%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasjayanti208@gmail.com)  
-🌐 Portfolio: *Coming Soon*  
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/abhinaba-das-cse">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Abhinaba35">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="mailto:dasjayanti208@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dasjayanti208%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+  </a>
+
+</div>
+
 
 
 💼 *Open to SDE, Full Stack, and Data Analyst roles* 🚀
