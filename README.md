@@ -72,11 +72,20 @@ My strengths lie in **MERN Stack, Python, and Data Science**, and I enjoy solvin
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abhinaba35&theme=onedark&margin-w=15&margin-h=15)  
 
+## 📊 GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaba35&layout=compact&langs_count=8&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Abhinaba35&theme=radical&hide_border=false)
+
 ---
 
-## 📫 Let’s Connect!  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhinaba-das-cse)  
-📧 Email: **dasjayanti208@gmail.com**  
+## 📫 Let's Connect  
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhinaba-das-cse)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Abhinaba35)  
+[![Gmail](https://img.shields.io/badge/Email-dasjayanti208%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasjayanti208@gmail.com)  
 🌐 Portfolio: *Coming Soon*  
+
 
 💼 *Open to SDE, Full Stack, and Data Analyst roles* 🚀
