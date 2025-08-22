@@ -28,9 +28,12 @@ My strengths lie in **MERN Stack, Python, and Data Science**, and I enjoy solvin
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)  
 
 ### 🌐 Tools & Platforms  
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode)](https://skillicons.dev)  
+### 🌐 Tools & Platforms  
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,jira)](https://skillicons.dev)  
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)  
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+
 
 
 ---
