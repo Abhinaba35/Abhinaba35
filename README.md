@@ -1,7 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Abhinaba+Das!;🎓+B.Tech+CSE;💻+MERN+Stack+Developer;📊+Data+Analyst;🤖+AI+Enthusiast;📍+India;🔍+Open+to+SDE+Opportunities" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  Hi there 👋 I'm Abhinaba Das!
+</h1>
 
+<h3 align="center">
+  🎓 B.Tech CSE | 📍 India | 🔍 Open to Full Stack & SDE Opportunities
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=💻+MERN+Stack+Developer;📊+Data+Analyst;🤖+AI+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
