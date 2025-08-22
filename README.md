@@ -17,34 +17,20 @@ My strengths lie in **MERN Stack, Python, and Data Science**, and I enjoy solvin
 ## 💻 Tech Stack  
 
 ### 👨‍💻 Languages  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![Python](https://skillicons.dev/icons?i=python)  
-![C++](https://skillicons.dev/icons?i=cpp)  
-![SQL](https://skillicons.dev/icons?i=mysql)  
-![HTML](https://skillicons.dev/icons?i=html)  
-![CSS](https://skillicons.dev/icons?i=css)  
+[![My Skills](https://skillicons.dev/icons?i=js,python,cpp,mysql,html,css)](https://skillicons.dev)  
 
 ### 🧱 Frameworks & Libraries  
-![React](https://skillicons.dev/icons?i=react)  
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![Express](https://skillicons.dev/icons?i=express)  
-![Tailwind](https://skillicons.dev/icons?i=tailwind)  
-![Redux](https://skillicons.dev/icons?i=redux)  
-![Socket.io](https://skillicons.dev/icons?i=socketio)  
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,tailwind,redux)](https://skillicons.dev)  
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)  
 ![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=zustand&logoColor=white)  
 
 ### 🗃️ Databases  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)  
-![MySQL](https://skillicons.dev/icons?i=mysql)  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)  
 
 ### 🌐 Tools & Platforms  
-![Git](https://skillicons.dev/icons?i=git)  
-![GitHub](https://skillicons.dev/icons?i=github)  
-![Postman](https://skillicons.dev/icons?i=postman)  
-![Vercel](https://skillicons.dev/icons?i=vercel)  
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode)](https://skillicons.dev)  
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)  
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)  
-![VS Code](https://skillicons.dev/icons?i=vscode)  
 
 
 ---
