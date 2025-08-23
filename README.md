@@ -91,9 +91,9 @@ My strengths lie in **MERN Stack, Python, and Data Science**, and I enjoy solvin
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinaba35&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinaba35&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
-  
+
 
 ---
 
