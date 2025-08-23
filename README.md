@@ -35,7 +35,7 @@ My strengths lie in **MERN Stack, Python, and Data Science**, and I enjoy solvin
 ### 🗃️ Databases  
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)  
 
-### 🌐 Tools & Platforms  
+ 
 ### 🌐 Tools & Platforms  
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode)](https://skillicons.dev)  
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)  
@@ -88,7 +88,7 @@ My strengths lie in **MERN Stack, Python, and Data Science**, and I enjoy solvin
 
 ## 🏆 GitHub Trophies  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abhinaba35&theme=onedark&margin-w=15&margin-h=15)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abhinaba35&theme=onedark&margin-w=15&margin-h=15)   
 
 ---
 
